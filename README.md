@@ -12,15 +12,6 @@ This project demonstrates how Gemini CLI's non-interactive mode can significantl
 - **File Editing**: Intelligent file modifications based on code analysis recommendations
 - **Error Handling**: Built-in timeout and robust error handling for reliable execution
 
-### Development Efficiency Gains
-
-The non-interactive mode saves significant development time by:
-
-1. **Intelligent File Selection**: Automatically determines relevant files for specific tasks
-2. **Automated Code Generation**: Generates boilerplate code, tests, and documentation
-3. **Command Automation**: Executes development commands without manual intervention
-4. **Contextual Analysis**: Provides codebase insights with full project context
-
 ### Usage Example
 
 The integrated `gemini_cli` function accepts tasks like:
